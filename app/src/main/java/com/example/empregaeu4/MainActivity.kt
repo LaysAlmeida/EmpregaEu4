@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         val edNome = binding.edUsuario
         val btLogin = binding.btLogin
         btLogin.setOnClickListener {
-            if(edNome.text.toString()=="Lays Almeida") {
+            if(edNome.text.toString()=="Lays Almeid") {
                 val inten = Intent(this, CadastroVagaActivity::class.java)
                 startActivity(inten)
                 val database = Firebase.database
