@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827339633302",
+    "project_id": "projetor-cd904",
+    "storage_bucket": "projetor-cd904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827339633302:android:232c5856f6c6a2b87cc8b7",
+        "android_client_info": {
+          "package_name": "com.example.empregaeu4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827339633302-1opn3j5ohqpa39853li8blm8rqmf72ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI9pTu1XAOLe_RxwJJWL49TBMoPZA1DIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827339633302-1opn3j5ohqpa39853li8blm8rqmf72ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
